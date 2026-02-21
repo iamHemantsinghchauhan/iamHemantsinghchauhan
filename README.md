@@ -32,30 +32,6 @@ I decode patterns, extract signals from noise, and translate numbers into strate
 
 ---
 
-## 🛠️ Technical Toolkit
-
-### 💻 Programming & Data Handling
-Python • Pandas • NumPy • SQL  
-
-### 📊 Visualization & BI
-Power BI • Matplotlib • Seaborn • Excel  
-
-### 📚 Core Concepts
-Statistics • Probability  
-Confidence Intervals • Central Limit Theorem  
-Hypothesis Testing • Data Storytelling  
-
-
----
-
-
-
-## 📌 Currently Growing In
-
-🔍 Advanced Statistical Modeling  
-📊 Business Case-Based Data Analysis  
-⚡ Writing More Optimized SQL Queries  
-🧠 Strengthening Analytical Storytelling  
 
 ---
 
