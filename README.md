@@ -1,102 +1,88 @@
-<!-- ================= HEADER ================= -->
+<!-- ================= SMART ANALYST AESTHETIC ================= -->
 
 <h1 align="center">Hemant Singh Chauhan</h1>
-
-<h3 align="center">Data Analyst • Insight Explorer • Decision Architect</h3>
+<h3 align="center">Data Analyst • Analytical Thinker • Business Insight Explorer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=00BFFF&center=true&vCenter=true&width=700&lines=Transforming+Data+into+Strategy;Python+%7C+SQL+%7C+Power+BI;Statistics+Meets+Business;Curious+Mind+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=20&duration=4000&color=5DADE2&center=true&vCenter=true&width=650&lines=Clarity+Through+Data;From+Raw+Numbers+to+Real+Insights;Python+%7C+SQL+%7C+Power+BI;Building+Logic-Driven+Solutions" />
 </p>
 
 ---
 
-## 👋 Who Am I?
+## 🎓 Profile
 
-I’m Hemant — an undergraduate 🎓 at **Uttaranchal University**, driven by curiosity and guided by logic.
+Undergraduate at **Uttaranchal University** with a focused interest in Data Analytics and Business Intelligence.
 
-I don’t just analyze data —  
-I decode patterns, extract signals from noise, and translate numbers into strategic decisions.
+I approach problems with structure, logic, and measurable thinking.  
+My goal is simple — extract meaning from complexity and turn analysis into action.
 
-Where others see spreadsheets,  
-I see business stories waiting to be told.
-
----
-
-## 🧭 My Analytical Philosophy
-
-📊 Data without context is just noise  
-📈 Insight without action is just theory  
-🎯 Analysis should always drive decisions  
-
-I believe in building solutions that are:
-- Structured
-- Insightful
-- Business-Oriented
-- Impact-Focused
+I believe strong analysis is:
+- Clear  
+- Quantifiable  
+- Business-Relevant  
+- Decision-Oriented  
 
 ---
 
-## 🚀 What I Do Best
+## 🔎 What Defines My Work
 
-🔹 Clean messy datasets into structured intelligence  
-🔹 Perform Exploratory Data Analysis (EDA)  
-🔹 Apply Statistical Thinking & Hypothesis Testing  
-🔹 Extract insights using SQL  
-🔹 Build Interactive Dashboards in Power BI  
-🔹 Translate numbers into executive-level recommendations  
+✔ Structured Data Cleaning & Transformation  
+✔ Insightful Exploratory Data Analysis (EDA)  
+✔ Applied Statistics & Hypothesis Testing  
+✔ SQL-Based Data Investigation  
+✔ Executive-Level Dashboard Storytelling  
+✔ Translating Data into Strategic Recommendations  
 
 ---
 
-## 🛠️ Technical Toolkit
+## 🧠 Technical Stack
 
-### 💻 Programming & Data Handling
+### Programming & Querying  
 Python • Pandas • NumPy • SQL  
 
-### 📊 Visualization & BI
+### Visualization & BI  
 Power BI • Matplotlib • Seaborn • Excel  
 
-### 📚 Core Concepts
+### Analytical Foundation  
 Statistics • Probability  
 Confidence Intervals • Central Limit Theorem  
-Hypothesis Testing • Data Storytelling  
+Hypothesis Testing  
 
-### ⚙️ Workflow
+### Development Environment  
 Git • GitHub • VS Code • Jupyter Notebook  
 
 ---
 
-## 📂 What You’ll Find Here
+## 📊 Areas of Focus
 
-📊 Real Estate Market Intelligence Dashboard  
-📈 Business Data Analysis Projects  
-📉 Statistical Case Studies  
-📌 SQL Data Exploration Projects  
+• Market & Business Data Analysis  
+• Real Estate Analytics  
+• Statistical Interpretation  
+• Insight-Driven Reporting  
 
-Every repository reflects structured thinking and real-world application.
-
----
-
-## 📌 Currently Growing In
-
-🔍 Advanced Statistical Modeling  
-📊 Business Case-Based Data Analysis  
-⚡ Writing More Optimized SQL Queries  
-🧠 Strengthening Analytical Storytelling  
+Every repository here reflects structured thinking and practical application.
 
 ---
 
-## 📫 Let’s Connect
+## 📈 Current Growth Direction
 
-I’m always open to meaningful discussions, internships, collaborations, and data-driven opportunities.
+Deepening statistical reasoning  
+Optimizing SQL efficiency  
+Building real-world business case projects  
+Strengthening analytical storytelling  
 
-🔗 LinkedIn:  
+---
+
+## 📫 Connect
+
+LinkedIn  
 https://www.linkedin.com/in/hemantsinghchauhan/
 
-📧 Email:  
+Email  
 iamhemantsinghchauhan@gmail.com  
 
 ---
 
-<h3 align="center">
-"Turning Data into Direction."
-</h3>
+<p align="center">
+  <i>“Precision in Analysis. Clarity in Insight.”</i>
+</p>
