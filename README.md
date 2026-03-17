@@ -1,6 +1,6 @@
 <!-- ================= HEADER ================= -->
 
-<h1 align="center">Hemant SinghChauhan</h1>
+<h1 align="center">Hemant Singh Chauhan</h1>
 
 <h3 align="center">Data Analyst • Insight Explorer </h3>
 
