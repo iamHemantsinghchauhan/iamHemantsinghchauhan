@@ -6,7 +6,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=00BFFF&center=true&vCenter=true&width=700&lines=Transforming+Data+into+Strategy;Python+%7C+SQL+%7C+Power+BI;Statistics+Meets+Business;Curious+Mind+%F0%9F%9A%80" />
 </p>
-
 ---
 
 ## 👋 Who Am I?
